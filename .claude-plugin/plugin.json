@@ -8,6 +8,8 @@
   },
   "homepage": "https://github.com/tnoshin/study-buddy",
   "repository": "https://github.com/tnoshin/study-buddy",
+  "supportUrl": "https://github.com/tnoshin/study-buddy/issues",
+  "privacyPolicyUrl": "https://github.com/tnoshin/study-buddy#your-data",
   "license": "MIT",
   "keywords": [
     "study",
