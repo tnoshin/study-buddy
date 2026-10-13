@@ -1,0 +1,21 @@
+{
+  "name": "study-buddy",
+  "displayName": "Study Buddy",
+  "version": "1.0.0",
+  "description": "What is this?\n• A plugin with ready-made instructions that lets Claude help you study more efficiently.\n\nWhat does it do?\n• Helps students plan their studies, study with Claude, and stay accountable each day.\n\nFeatures\n• Study plans • Quizzes and flashcards • Cheat sheets from your notes • Daily log • Optional Notion or Google Drive\n\nHow to use it\n• Type a slash (/) and it will show you the skills, or just type \"how to use this\" to get started.\n\nHappy learning!",
+  "author": {
+    "name": "Shin"
+  },
+  "homepage": "https://github.com/tnoshin/study-buddy",
+  "repository": "https://github.com/tnoshin/study-buddy",
+  "license": "MIT",
+  "keywords": [
+    "study",
+    "exam",
+    "quiz",
+    "flashcards",
+    "cheat sheet",
+    "study planner",
+    "accountability"
+  ]
+}
